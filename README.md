@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react js 
 - 💞️ I’m looking to collaborate on front end projects 
 - 📫 How to reach me vishwastripathi16@gmail.com
+-     rishabhtripathi125 This is my Instagram Account
 
 <!---
 VT161195/VT161195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
