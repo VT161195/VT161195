@@ -9,7 +9,7 @@ VT161195/VT161195 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Social Media Icons](C:\Users\itm\Desktop/inst)
+![Social Media Icons](C:\Users\itm\Desktop\insta)
 
 
 [Instagram](https://instagram.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) | [Telegram](https://t.me/yourusername)
