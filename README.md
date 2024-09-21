@@ -54,4 +54,3 @@ You can click the Preview link to take a look at your changes.
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->****
