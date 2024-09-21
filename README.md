@@ -8,3 +8,8 @@
 VT161195/VT161195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+!
+
+[Instagram](https://instagram.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) | [Telegram](https://t.me/yourusername)
+
